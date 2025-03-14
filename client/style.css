@@ -147,3 +147,6 @@ form img {
   width: 30px;
   height: 30px;
 }
+.message::-webkit-scrollbar {
+  display: none;
+}
